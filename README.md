@@ -1,25 +1,11 @@
-Advent of Code Node.js Solution
+Advent of Code Solution Files
 =========
 
 All [Advent of Code](http://adventofcode.com/) exercises were developed by [Eric Wastl](http://was.tl/).
 
 ## Installation
 
-  Use the following command to download an install this solution.
-
-  `npm install https://github.com/futuregarnet/AoCSolutions-nodejs.git`
-
-## Usage
-
-  Use the following command to start the Node.js server and get the solution.
-
-  `npm start`
-
-## Tests
-
-  Use the following command to run the examples given with exercise.
-
-  `npm test`
+  Go to the folder of your preferenced language and follow the commands for configuration.
 
 ## Release History
 
