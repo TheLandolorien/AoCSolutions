@@ -9,4 +9,4 @@ All [Advent of Code](http://adventofcode.com/) exercises were developed by [Eric
 
 ## Release History
 
-* 0.5.0 Initial release
+* 0.6.1 Initial release
