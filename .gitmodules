@@ -1,6 +1,6 @@
 [submodule "nodejs"]
 	path = nodejs
 	url = git@github.com:futuregarnet/AoCSolutions-nodejs.git
-[submodule "AoCSolutions-python"]
-	path = AoCSolutions-python
+[submodule "python"]
+	path = python
 	url = https://github.com/futuregarnet/AoCSolutions-python
